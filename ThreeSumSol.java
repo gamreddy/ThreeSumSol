@@ -1,9 +1,6 @@
-import java.util.Set;
 import java.util.*;
 
-
 class ThreeSumSol {
-
 
     public Set<int[]> find(int numbers[]){
 
